@@ -1,0 +1,1 @@
+hi this is a work in progress but TLDR; i got inspired by BobbyBroccoli's video on schon where he briefly mentioned that he manually went through all Nobel Laureate's pages (insane) only to find out that the most common word on these pages is "eugenics" <3
