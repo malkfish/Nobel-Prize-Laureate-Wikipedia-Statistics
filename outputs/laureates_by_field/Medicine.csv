@@ -1,0 +1,125 @@
+,YEAR,AUTHOR_1,AUTHOR_2,AUTHOR_3,URL_1,URL_2,URL_3
+0,2024,Victor Ambros,Gary Ruvkun,,/wiki/Victor_Ambros,/wiki/Gary_Ruvkun,
+1,2023,Katalin Karikó,Drew Weissman,,/wiki/Katalin_Karik%C3%B3,/wiki/Drew_Weissman,
+2,2022,Svante Pääbo,,,/wiki/Svante_P%C3%A4%C3%A4bo,,
+3,2021,David Julius,Ardem Patapoutian,,/wiki/David_Julius,/wiki/Ardem_Patapoutian,
+4,2020,Harvey J. Alter,Michael Houghton,Charles M. Rice,/wiki/Harvey_J._Alter,/wiki/Michael_Houghton_(virologist),/wiki/Charles_M._Rice
+5,2019,William Kaelin Jr.,Peter J. Ratcliffe,Gregg L. Semenza,/wiki/William_Kaelin_Jr.,/wiki/Peter_J._Ratcliffe,/wiki/Gregg_L._Semenza
+6,2018,James P. Allison,Tasuku Honjo,,/wiki/James_P._Allison,/wiki/Tasuku_Honjo,
+7,2017,Jeffrey C. Hall,Michael Rosbash,Michael W. Young,/wiki/Jeffrey_C._Hall,/wiki/Michael_Rosbash,/wiki/Michael_W._Young
+8,2016,Yoshinori Ohsumi,,,/wiki/Yoshinori_Ohsumi,,
+9,2015,William C. Campbell,Satoshi Ōmura,Tu Youyou,/wiki/William_C._Campbell_(scientist),/wiki/Satoshi_%C5%8Cmura,/wiki/Tu_Youyou
+10,2014,John O'Keefe,May-Britt Moser,Edvard Moser,/wiki/John_O%27Keefe_(neuroscientist),/wiki/May-Britt_Moser,/wiki/Edvard_Moser
+11,2013,James E. Rothman,Randy W. Schekman,Thomas C. Südhof,/wiki/James_Rothman,/wiki/Randy_W._Schekman,/wiki/Thomas_C._S%C3%BCdhof
+12,2012,John B. Gurdon,Shinya Yamanaka,,/wiki/John_Gurdon,/wiki/Shinya_Yamanaka,
+13,2011,Bruce Beutler,Jules A. Hoffmann,Ralph M. Steinman,/wiki/Bruce_Beutler,/wiki/Jules_A._Hoffmann,/wiki/Ralph_M._Steinman
+14,2010,Robert Edwards,,,/wiki/Robert_Edwards_(physiologist),,
+15,2009,Elizabeth Blackburn,Carol W. Greider,Jack W. Szostak,/wiki/Elizabeth_Blackburn,/wiki/Carol_W._Greider,/wiki/Jack_W._Szostak
+16,2008,Harald zur Hausen,Françoise Barré-Sinoussi,Luc Montagnier,/wiki/Harald_zur_Hausen,/wiki/Fran%C3%A7oise_Barr%C3%A9-Sinoussi,/wiki/Luc_Montagnier
+17,2007,Mario Capecchi,Martin Evans,Oliver Smithies,/wiki/Mario_Capecchi,/wiki/Martin_Evans,/wiki/Oliver_Smithies
+18,2006,Andrew Fire,Craig Mello,,/wiki/Andrew_Fire,/wiki/Craig_Mello,
+19,2005,Barry Marshall,Robin Warren,,/wiki/Barry_Marshall,/wiki/Robin_Warren,
+20,2004,Richard Axel,Linda B. Buck,,/wiki/Richard_Axel,/wiki/Linda_B._Buck,
+21,2003,Paul Lauterbur,Peter Mansfield,,/wiki/Paul_Lauterbur,/wiki/Peter_Mansfield,
+22,2002,Sydney Brenner,H. Robert Horvitz,John Sulston,/wiki/Sydney_Brenner,/wiki/H._Robert_Horvitz,/wiki/John_Sulston
+23,2001,Leland H. Hartwell,Tim Hunt,Paul Nurse,/wiki/Leland_H._Hartwell,/wiki/Tim_Hunt,/wiki/Paul_Nurse
+24,2000,Arvid Carlsson,Paul Greengard,Eric Kandel,/wiki/Arvid_Carlsson,/wiki/Paul_Greengard,/wiki/Eric_Kandel
+25,1999,Günter Blobel,,,/wiki/G%C3%BCnter_Blobel,,
+26,1998,Robert F. Furchgott,Louis Ignarro,Ferid Murad,/wiki/Robert_F._Furchgott,/wiki/Louis_Ignarro,/wiki/Ferid_Murad
+27,1997,Stanley B. Prusiner,,,/wiki/Stanley_B._Prusiner,,
+28,1996,Peter C. Doherty,Rolf M. Zinkernagel,,/wiki/Peter_C._Doherty,/wiki/Rolf_M._Zinkernagel,
+29,1995,Edward B. Lewis,Christiane Nüsslein-Volhard,Eric F. Wieschaus,/wiki/Edward_B._Lewis,/wiki/Christiane_N%C3%BCsslein-Volhard,/wiki/Eric_F._Wieschaus
+30,1994,Alfred G. Gilman,Martin Rodbell,,/wiki/Alfred_G._Gilman,/wiki/Martin_Rodbell,
+31,1993,Richard J. Roberts,Phillip Allen Sharp,,/wiki/Richard_J._Roberts,/wiki/Phillip_Allen_Sharp,
+32,1992,Edmond H. Fischer,Edwin G. Krebs,,/wiki/Edmond_H._Fischer,/wiki/Edwin_G._Krebs,
+33,1991,Erwin Neher,Bert Sakmann,,/wiki/Erwin_Neher,/wiki/Bert_Sakmann,
+34,1990,Joseph Murray,E. Donnall Thomas,,/wiki/Joseph_Murray,/wiki/E._Donnall_Thomas,
+35,1989,J. Michael Bishop,Harold E. Varmus,,/wiki/J._Michael_Bishop,/wiki/Harold_E._Varmus,
+36,1988,James W. Black,Gertrude B. Elion,George H. Hitchings,/wiki/James_W._Black,/wiki/Gertrude_B._Elion,/wiki/George_H._Hitchings
+37,1987,Susumu Tonegawa,,,/wiki/Susumu_Tonegawa,,
+38,1986,Stanley Cohen,Rita Levi-Montalcini,,/wiki/Stanley_Cohen_(biochemist),/wiki/Rita_Levi-Montalcini,
+39,1985,Michael Stuart Brown,Joseph L. Goldstein,,/wiki/Michael_Stuart_Brown,/wiki/Joseph_L._Goldstein,
+40,1984,Niels Kaj Jerne,Georges J. F. Köhler,César Milstein,/wiki/Niels_Kaj_Jerne,/wiki/Georges_J._F._K%C3%B6hler,/wiki/C%C3%A9sar_Milstein
+41,1983,Barbara McClintock,,,/wiki/Barbara_McClintock,,
+42,1982,Sune Bergström,Bengt I. Samuelsson,John Vane,/wiki/Sune_Bergstr%C3%B6m,/wiki/Bengt_I._Samuelsson,/wiki/John_Vane
+43,1981,Roger Wolcott Sperry,David H. Hubel,Torsten Wiesel,/wiki/Roger_Wolcott_Sperry,/wiki/David_H._Hubel,/wiki/Torsten_Wiesel
+44,1980,Baruj Benacerraf,Jean Dausset,George Davis Snell,/wiki/Baruj_Benacerraf,/wiki/Jean_Dausset,/wiki/George_Davis_Snell
+45,1979,Allan McLeod Cormack,Godfrey Hounsfield,,/wiki/Allan_McLeod_Cormack,/wiki/Godfrey_Hounsfield,
+46,1978,Werner Arber,Daniel Nathans,Hamilton O. Smith,/wiki/Werner_Arber,/wiki/Daniel_Nathans,/wiki/Hamilton_O._Smith
+47,1977,Roger Guillemin,Andrew Schally,Rosalyn Sussman Yalow,/wiki/Roger_Guillemin,/wiki/Andrew_Schally,/wiki/Rosalyn_Sussman_Yalow
+48,1976,Baruch Samuel Blumberg,Daniel Carleton Gajdusek,,/wiki/Baruch_Samuel_Blumberg,/wiki/Daniel_Carleton_Gajdusek,
+49,1975,David Baltimore,Renato Dulbecco,Howard Martin Temin,/wiki/David_Baltimore,/wiki/Renato_Dulbecco,/wiki/Howard_Martin_Temin
+50,1974,Albert Claude,Christian de Duve,George Emil Palade,/wiki/Albert_Claude,/wiki/Christian_de_Duve,/wiki/George_Emil_Palade
+51,1973,Karl von Frisch,Konrad Lorenz,Nikolaas Tinbergen,/wiki/Karl_von_Frisch,/wiki/Konrad_Lorenz,/wiki/Nikolaas_Tinbergen
+52,1972,Gerald Edelman,Rodney Robert Porter,,/wiki/Gerald_Edelman,/wiki/Rodney_Robert_Porter,
+53,1971,Earl Wilbur Sutherland Jr.,,,/wiki/Earl_Wilbur_Sutherland_Jr.,,
+54,1970,Julius Axelrod,Ulf von Euler,Bernard Katz,/wiki/Julius_Axelrod,/wiki/Ulf_von_Euler,/wiki/Bernard_Katz
+55,1969,Max Delbrück,Alfred Hershey,Salvador Luria,/wiki/Max_Delbr%C3%BCck,/wiki/Alfred_Hershey,/wiki/Salvador_Luria
+56,1968,Robert W. Holley,Har Gobind Khorana,Marshall Warren Nirenberg,/wiki/Robert_W._Holley,/wiki/Har_Gobind_Khorana,/wiki/Marshall_Warren_Nirenberg
+57,1967,Ragnar Granit,Haldan Keffer Hartline,George Wald,/wiki/Ragnar_Granit,/wiki/Haldan_Keffer_Hartline,/wiki/George_Wald
+58,1966,Francis Peyton Rous,Charles Brenton Huggins,,/wiki/Francis_Peyton_Rous,/wiki/Charles_Brenton_Huggins,
+59,1965,François Jacob,André Michel Lwoff,Jacques Monod,/wiki/Fran%C3%A7ois_Jacob,/wiki/Andr%C3%A9_Michel_Lwoff,/wiki/Jacques_Monod
+60,1964,Konrad Emil Bloch,Feodor Lynen,,/wiki/Konrad_Emil_Bloch,/wiki/Feodor_Lynen,
+61,1963,John Eccles,Alan Hodgkin,Andrew Huxley,/wiki/John_Eccles_(neurophysiologist),/wiki/Alan_Hodgkin,/wiki/Andrew_Huxley
+62,1962,Francis Crick,James Watson,Maurice Wilkins,/wiki/Francis_Crick,/wiki/James_Watson,/wiki/Maurice_Wilkins
+63,1961,Georg von Békésy,,,/wiki/Georg_von_B%C3%A9k%C3%A9sy,,
+64,1960,Macfarlane Burnet,Peter Medawar,,/wiki/Macfarlane_Burnet,/wiki/Peter_Medawar,
+65,1959,Arthur Kornberg,Severo Ochoa,,/wiki/Arthur_Kornberg,/wiki/Severo_Ochoa,
+66,1958,George Beadle,Edward Tatum,Joshua Lederberg,/wiki/George_Beadle,/wiki/Edward_Tatum,/wiki/Joshua_Lederberg
+67,1957,Daniel Bovet,,,/wiki/Daniel_Bovet,,
+68,1956,André Frédéric Cournand,Werner Forssmann,Dickinson W. Richards,/wiki/Andr%C3%A9_Fr%C3%A9d%C3%A9ric_Cournand,/wiki/Werner_Forssmann,/wiki/Dickinson_W._Richards
+69,1955,Hugo Theorell,,,/wiki/Hugo_Theorell,,
+70,1954,John Franklin Enders,Frederick Chapman Robbins,Thomas Huckle Weller,/wiki/John_Franklin_Enders,/wiki/Frederick_Chapman_Robbins,/wiki/Thomas_Huckle_Weller
+71,1953,Hans Adolf Krebs,Fritz Albert Lipmann,,/wiki/Hans_Adolf_Krebs,/wiki/Fritz_Albert_Lipmann,
+72,1952,Selman Waksman,,,/wiki/Selman_Waksman,,
+73,1951,Max Theiler,,,/wiki/Max_Theiler,,
+74,1950,Philip Showalter Hench,Edward Calvin Kendall,Tadeus Reichstein,/wiki/Philip_Showalter_Hench,/wiki/Edward_Calvin_Kendall,/wiki/Tadeus_Reichstein
+75,1949,Walter Rudolf Hess,António Egas Moniz,,/wiki/Walter_Rudolf_Hess,/wiki/Ant%C3%B3nio_Egas_Moniz,
+76,1948,Paul Hermann Müller,,,/wiki/Paul_Hermann_M%C3%BCller,,
+77,1947,Carl Ferdinand Cori,Gerty Cori,Bernardo Houssay,/wiki/Carl_Ferdinand_Cori,/wiki/Gerty_Cori,/wiki/Bernardo_Houssay
+78,1946,Hermann Joseph Muller,,,/wiki/Hermann_Joseph_Muller,,
+79,1945,Alexander Fleming,Ernst Chain,Howard Florey,/wiki/Alexander_Fleming,/wiki/Ernst_Chain,/wiki/Howard_Florey
+80,1944,Joseph Erlanger,Herbert Spencer Gasser,,/wiki/Joseph_Erlanger,/wiki/Herbert_Spencer_Gasser,
+81,1943,Henrik Dam,Edward Adelbert Doisy,,/wiki/Henrik_Dam,/wiki/Edward_Adelbert_Doisy,
+82,1942,No Record,,,No Record,,
+83,1941,No Record,,,No Record,,
+84,1940,No Record,,,No Record,,
+85,1939,Gerhard Domagk,,,/wiki/Gerhard_Domagk,#cite_note-A-15,
+86,1938,Corneille Heymans,,,/wiki/Corneille_Heymans,,
+87,1937,Albert Szent-Györgyi,,,/wiki/Albert_Szent-Gy%C3%B6rgyi,,
+88,1936,Henry Hallett Dale,Otto Loewi,,/wiki/Henry_Hallett_Dale,/wiki/Otto_Loewi,
+89,1935,Hans Spemann,,,/wiki/Hans_Spemann,,
+90,1934,/wiki/George_Whipple,/wiki/George_Minot,/wiki/William_P._Murphy,Luigi Pirandello,,
+91,1933,/wiki/Thomas_Hunt_Morgan,,,Ivan Bunin,,
+92,1932,Charles Scott Sherrington,Edgar Adrian,,/wiki/Charles_Scott_Sherrington,/wiki/Edgar_Adrian,
+93,1931,/wiki/Otto_Heinrich_Warburg,,,Erik Axel Karlfeldt,,
+94,1930,Karl Landsteiner,,,/wiki/Karl_Landsteiner,,
+95,1929,Christiaan Eijkman,Frederick Gowland Hopkins,,/wiki/Christiaan_Eijkman,/wiki/Frederick_Gowland_Hopkins,
+96,1928,Charles Nicolle,,,/wiki/Charles_Nicolle,,
+97,1927,Julius Wagner-Jauregg,,,/wiki/Julius_Wagner-Jauregg,,
+98,1926,Johannes Fibiger,,,/wiki/Johannes_Fibiger,,
+99,1925,,,,George Bernard Shaw,,
+100,1924,/wiki/Willem_Einthoven,,,Władysław Reymont,,
+101,1923,Frederick Banting,John Macleod,,/wiki/Frederick_Banting,/wiki/John_Macleod_(physiologist),
+102,1922,Archibald Hill,Otto Fritz Meyerhof,,/wiki/Archibald_Hill,/wiki/Otto_Fritz_Meyerhof,
+103,1921,,,,Anatole France,,
+104,1920,August Krogh,,,/wiki/August_Krogh,,
+105,1919,/wiki/Jules_Bordet,,,Carl Spitteler,,
+106,1918,,,,,,
+107,1917,Karl Adolph Gjellerup,Henrik Pontoppidan,,/wiki/Karl_Adolph_Gjellerup,/wiki/Henrik_Pontoppidan,
+108,1916,/wiki/Verner_von_Heidenstam,,,,,
+109,1915,,,,Romain Rolland,,
+110,1914,Robert Bárány,,,/wiki/Robert_B%C3%A1r%C3%A1ny,,
+111,1913,Charles Richet,,,/wiki/Charles_Richet,,
+112,1912,Alexis Carrel,,,/wiki/Alexis_Carrel,,
+113,1911,Allvar Gullstrand,,,/wiki/Allvar_Gullstrand,,
+114,1910,Albrecht Kossel,,,/wiki/Albrecht_Kossel,,
+115,1909,Emil Theodor Kocher,,,/wiki/Emil_Theodor_Kocher,,
+116,1908,Élie Metchnikoff,Paul Ehrlich,,/wiki/%C3%89lie_Metchnikoff,/wiki/Paul_Ehrlich,
+117,1907,Charles Louis Alphonse Laveran,,,/wiki/Charles_Louis_Alphonse_Laveran,,
+118,1906,Camillo Golgi,Santiago Ramón y Cajal,,/wiki/Camillo_Golgi,/wiki/Santiago_Ram%C3%B3n_y_Cajal,
+119,1905,Robert Koch,,,/wiki/Robert_Koch,,
+120,1904,Ivan Pavlov,,,/wiki/Ivan_Pavlov,,
+121,1903,Niels Ryberg Finsen,,,/wiki/Niels_Ryberg_Finsen,,
+122,1902,Ronald Ross,,,/wiki/Ronald_Ross,,
+123,1901,Emil von Behring,,,/wiki/Emil_von_Behring,,
