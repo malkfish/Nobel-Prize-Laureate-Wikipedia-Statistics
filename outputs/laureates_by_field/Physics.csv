@@ -1,5 +1,5 @@
 ,YEAR,AUTHOR_1,AUTHOR_2,AUTHOR_3,URL_1,URL_2,URL_3
-0,2024,John Hopfield,Geoffrey Hinton,,/wiki/John_Hopfield,/wiki/Geoffrey_Hinton,
+0,2024,John Hopfield,Geoffrey Hinton,No Record,/wiki/John_Hopfield,/wiki/Geoffrey_Hinton,No Record
 1,2023,Pierre Agostini,Ferenc Krausz,Anne L'Huillier,/wiki/Pierre_Agostini,/wiki/Ferenc_Krausz,/wiki/Anne_L%27Huillier
 2,2022,Alain Aspect,John Clauser,Anton Zeilinger,/wiki/Alain_Aspect,/wiki/John_Clauser,/wiki/Anton_Zeilinger
 3,2021,Giorgio Parisi,Klaus Hasselmann,Syukuro Manabe,/wiki/Giorgio_Parisi,/wiki/Klaus_Hasselmann,/wiki/Syukuro_Manabe
@@ -8,118 +8,118 @@
 6,2018,Arthur Ashkin,Gérard Mourou,Donna Strickland,/wiki/Arthur_Ashkin,/wiki/G%C3%A9rard_Mourou,/wiki/Donna_Strickland
 7,2017,Rainer Weiss,Barry Barish,Kip Thorne,/wiki/Rainer_Weiss,/wiki/Barry_Barish,/wiki/Kip_Thorne
 8,2016,David J. Thouless,Duncan Haldane,John M. Kosterlitz,/wiki/David_J._Thouless,/wiki/Duncan_Haldane,/wiki/John_M._Kosterlitz
-9,2015,Takaaki Kajita,Arthur B. McDonald,,/wiki/Takaaki_Kajita,/wiki/Arthur_B._McDonald,
+9,2015,Takaaki Kajita,Arthur B. McDonald,No Record,/wiki/Takaaki_Kajita,/wiki/Arthur_B._McDonald,No Record
 10,2014,Isamu Akasaki,Hiroshi Amano,Shuji Nakamura,/wiki/Isamu_Akasaki,/wiki/Hiroshi_Amano,/wiki/Shuji_Nakamura
-11,2013,François Englert,Peter W. Higgs,,/wiki/Fran%C3%A7ois_Englert,/wiki/Peter_Higgs,
-12,2012,Serge Haroche,David J. Wineland,,/wiki/Serge_Haroche,/wiki/David_J._Wineland,
+11,2013,François Englert,Peter W. Higgs,No Record,/wiki/Fran%C3%A7ois_Englert,/wiki/Peter_Higgs,No Record
+12,2012,Serge Haroche,David J. Wineland,No Record,/wiki/Serge_Haroche,/wiki/David_J._Wineland,No Record
 13,2011,Saul Perlmutter,Adam Riess,Brian Schmidt,/wiki/Saul_Perlmutter,/wiki/Adam_Riess,/wiki/Brian_Schmidt
-14,2010,Andre Geim,Konstantin Novoselov,,/wiki/Andre_Geim,/wiki/Konstantin_Novoselov,
+14,2010,Andre Geim,Konstantin Novoselov,No Record,/wiki/Andre_Geim,/wiki/Konstantin_Novoselov,No Record
 15,2009,Charles K. Kao,Willard S. Boyle,George E. Smith,/wiki/Charles_K._Kao,/wiki/Willard_Boyle,/wiki/George_E._Smith
 16,2008,Yoichiro Nambu,Makoto Kobayashi,Toshihide Maskawa,/wiki/Yoichiro_Nambu,/wiki/Makoto_Kobayashi_(physicist),/wiki/Toshihide_Maskawa
-17,2007,Albert Fert,Peter Grünberg,,/wiki/Albert_Fert,/wiki/Peter_Gr%C3%BCnberg,
-18,2006,John C. Mather,George Smoot,,/wiki/John_C._Mather,/wiki/George_Smoot,
+17,2007,Albert Fert,Peter Grünberg,No Record,/wiki/Albert_Fert,/wiki/Peter_Gr%C3%BCnberg,No Record
+18,2006,John C. Mather,George Smoot,No Record,/wiki/John_C._Mather,/wiki/George_Smoot,No Record
 19,2005,Roy J. Glauber,John L. Hall,Theodor W. Hänsch,/wiki/Roy_J._Glauber,/wiki/John_L._Hall,/wiki/Theodor_W._H%C3%A4nsch
 20,2004,David Gross,Hugh David Politzer,Frank Wilczek,/wiki/David_Gross,/wiki/Hugh_David_Politzer,/wiki/Frank_Wilczek
 21,2003,Alexei Abrikosov,Vitaly Ginzburg,Anthony James Leggett,/wiki/Alexei_Abrikosov_(physicist),/wiki/Vitaly_Ginzburg,/wiki/Anthony_James_Leggett
 22,2002,Riccardo Giacconi,Raymond Davis Jr.,Masatoshi Koshiba,/wiki/Riccardo_Giacconi,/wiki/Raymond_Davis_Jr.,/wiki/Masatoshi_Koshiba
 23,2001,Eric Allin Cornell,Wolfgang Ketterle,Carl Wieman,/wiki/Eric_Allin_Cornell,/wiki/Wolfgang_Ketterle,/wiki/Carl_Wieman
 24,2000,Jack Kilby,Zhores Alferov,Herbert Kroemer,/wiki/Jack_Kilby,/wiki/Zhores_Alferov,/wiki/Herbert_Kroemer
-25,1999,Gerard 't Hooft,Martinus J. G. Veltman,,/wiki/Gerard_%27t_Hooft,/wiki/Martinus_J._G._Veltman,
+25,1999,Gerard 't Hooft,Martinus J. G. Veltman,No Record,/wiki/Gerard_%27t_Hooft,/wiki/Martinus_J._G._Veltman,No Record
 26,1998,Robert B. Laughlin,Horst Ludwig Störmer,Daniel C. Tsui,/wiki/Robert_B._Laughlin,/wiki/Horst_Ludwig_St%C3%B6rmer,/wiki/Daniel_C._Tsui
 27,1997,Steven Chu,Claude Cohen-Tannoudji,William Daniel Phillips,/wiki/Steven_Chu,/wiki/Claude_Cohen-Tannoudji,/wiki/William_Daniel_Phillips
 28,1996,David Lee,Douglas Osheroff,Robert Coleman Richardson,/wiki/David_Lee_(physicist),/wiki/Douglas_Osheroff,/wiki/Robert_Coleman_Richardson
-29,1995,Martin Lewis Perl,Frederick Reines,,/wiki/Martin_Lewis_Perl,/wiki/Frederick_Reines,
-30,1994,Bertram Brockhouse,Clifford Shull,,/wiki/Bertram_Brockhouse,/wiki/Clifford_Shull,
-31,1993,Russell Alan Hulse,Joseph Hooton Taylor Jr.,,/wiki/Russell_Alan_Hulse,/wiki/Joseph_Hooton_Taylor_Jr.,
-32,1992,Georges Charpak,,,/wiki/Georges_Charpak,,
-33,1991,Pierre-Gilles de Gennes,,,/wiki/Pierre-Gilles_de_Gennes,,
+29,1995,Martin Lewis Perl,Frederick Reines,No Record,/wiki/Martin_Lewis_Perl,/wiki/Frederick_Reines,No Record
+30,1994,Bertram Brockhouse,Clifford Shull,No Record,/wiki/Bertram_Brockhouse,/wiki/Clifford_Shull,No Record
+31,1993,Russell Alan Hulse,Joseph Hooton Taylor Jr.,No Record,/wiki/Russell_Alan_Hulse,/wiki/Joseph_Hooton_Taylor_Jr.,No Record
+32,1992,Georges Charpak,No Record,No Record,/wiki/Georges_Charpak,No Record,No Record
+33,1991,Pierre-Gilles de Gennes,No Record,No Record,/wiki/Pierre-Gilles_de_Gennes,No Record,No Record
 34,1990,Jerome Isaac Friedman,Henry Way Kendall,Richard E. Taylor,/wiki/Jerome_Isaac_Friedman,/wiki/Henry_Way_Kendall,/wiki/Richard_E._Taylor
 35,1989,Norman Ramsey Jr.,Hans Georg Dehmelt,Wolfgang Paul,/wiki/Norman_Ramsey_Jr.,/wiki/Hans_Georg_Dehmelt,/wiki/Wolfgang_Paul
 36,1988,Leon M. Lederman,Melvin Schwartz,Jack Steinberger,/wiki/Leon_M._Lederman,/wiki/Melvin_Schwartz,/wiki/Jack_Steinberger
-37,1987,Georg Bednorz,K. Alex Müller,,/wiki/Georg_Bednorz,/wiki/K._Alex_M%C3%BCller,
+37,1987,Georg Bednorz,K. Alex Müller,No Record,/wiki/Georg_Bednorz,/wiki/K._Alex_M%C3%BCller,No Record
 38,1986,Ernst Ruska,Gerd Binnig,Heinrich Rohrer,/wiki/Ernst_Ruska,/wiki/Gerd_Binnig,/wiki/Heinrich_Rohrer
-39,1985,Klaus von Klitzing,,,/wiki/Klaus_von_Klitzing,,
-40,1984,Carlo Rubbia,Simon van der Meer,,/wiki/Carlo_Rubbia,/wiki/Simon_van_der_Meer,
-41,1983,Subrahmanyan Chandrasekhar,William Alfred Fowler,,/wiki/Subrahmanyan_Chandrasekhar,/wiki/William_Alfred_Fowler,
-42,1982,Kenneth G. Wilson,,,/wiki/Kenneth_G._Wilson,,
+39,1985,Klaus von Klitzing,No Record,No Record,/wiki/Klaus_von_Klitzing,No Record,No Record
+40,1984,Carlo Rubbia,Simon van der Meer,No Record,/wiki/Carlo_Rubbia,/wiki/Simon_van_der_Meer,No Record
+41,1983,Subrahmanyan Chandrasekhar,William Alfred Fowler,No Record,/wiki/Subrahmanyan_Chandrasekhar,/wiki/William_Alfred_Fowler,No Record
+42,1982,Kenneth G. Wilson,No Record,No Record,/wiki/Kenneth_G._Wilson,No Record,No Record
 43,1981,Nicolaas Bloembergen,Arthur Leonard Schawlow,Kai Siegbahn,/wiki/Nicolaas_Bloembergen,/wiki/Arthur_Leonard_Schawlow,/wiki/Kai_Siegbahn
-44,1980,James Cronin,Val Logsdon Fitch,,/wiki/James_Cronin,/wiki/Val_Logsdon_Fitch,
+44,1980,James Cronin,Val Logsdon Fitch,No Record,/wiki/James_Cronin,/wiki/Val_Logsdon_Fitch,No Record
 45,1979,Sheldon Glashow,Abdus Salam,Steven Weinberg,/wiki/Sheldon_Glashow,/wiki/Abdus_Salam,/wiki/Steven_Weinberg
 46,1978,Pyotr Kapitsa,Arno Allan Penzias,Robert Woodrow Wilson,/wiki/Pyotr_Kapitsa,/wiki/Arno_Allan_Penzias,/wiki/Robert_Woodrow_Wilson
 47,1977,Philip W. Anderson,Nevill Francis Mott,John Hasbrouck Van Vleck,/wiki/Philip_W._Anderson,/wiki/Nevill_Francis_Mott,/wiki/John_Hasbrouck_Van_Vleck
-48,1976,Burton Richter,Samuel C. C. Ting,,/wiki/Burton_Richter,/wiki/Samuel_C._C._Ting,
+48,1976,Burton Richter,Samuel C. C. Ting,No Record,/wiki/Burton_Richter,/wiki/Samuel_C._C._Ting,No Record
 49,1975,Aage Bohr,Ben Roy Mottelson,James Rainwater,/wiki/Aage_Bohr,/wiki/Ben_Roy_Mottelson,/wiki/James_Rainwater
-50,1974,Martin Ryle,Antony Hewish,,/wiki/Martin_Ryle,/wiki/Antony_Hewish,
+50,1974,Martin Ryle,Antony Hewish,No Record,/wiki/Martin_Ryle,/wiki/Antony_Hewish,No Record
 51,1973,Leo Esaki,Ivar Giaever,Brian Josephson,/wiki/Leo_Esaki,/wiki/Ivar_Giaever,/wiki/Brian_Josephson
 52,1972,John Bardeen,Leon Cooper,John Robert Schrieffer,/wiki/John_Bardeen,/wiki/Leon_Cooper,/wiki/John_Robert_Schrieffer
-53,1971,Dennis Gabor,,,/wiki/Dennis_Gabor,,
-54,1970,Hannes Alfvén,Louis Néel,,/wiki/Hannes_Alfv%C3%A9n,/wiki/Louis_N%C3%A9el,
-55,1969,Murray Gell-Mann,,,/wiki/Murray_Gell-Mann,,
-56,1968,Luis Walter Alvarez,,,/wiki/Luis_Walter_Alvarez,,
-57,1967,Hans Bethe,,,/wiki/Hans_Bethe,,
-58,1966,Alfred Kastler,,,/wiki/Alfred_Kastler,,
+53,1971,Dennis Gabor,No Record,No Record,/wiki/Dennis_Gabor,No Record,No Record
+54,1970,Hannes Alfvén,Louis Néel,No Record,/wiki/Hannes_Alfv%C3%A9n,/wiki/Louis_N%C3%A9el,No Record
+55,1969,Murray Gell-Mann,No Record,No Record,/wiki/Murray_Gell-Mann,No Record,No Record
+56,1968,Luis Walter Alvarez,No Record,No Record,/wiki/Luis_Walter_Alvarez,No Record,No Record
+57,1967,Hans Bethe,No Record,No Record,/wiki/Hans_Bethe,No Record,No Record
+58,1966,Alfred Kastler,No Record,No Record,/wiki/Alfred_Kastler,No Record,No Record
 59,1965,Shin'ichirō Tomonaga,Julian Schwinger,Richard Feynman,/wiki/Shin%27ichir%C5%8D_Tomonaga,/wiki/Julian_Schwinger,/wiki/Richard_Feynman
 60,1964,Charles H. Townes,Nikolay Basov,Alexander Prokhorov,/wiki/Charles_H._Townes,/wiki/Nikolay_Basov,/wiki/Alexander_Prokhorov
 61,1963,Eugene Wigner,Maria Goeppert Mayer,J. Hans D. Jensen,/wiki/Eugene_Wigner,/wiki/Maria_Goeppert_Mayer,/wiki/J._Hans_D._Jensen
-62,1962,Lev Landau,,,/wiki/Lev_Landau,,
-63,1961,Robert Hofstadter,Rudolf Mössbauer,,/wiki/Robert_Hofstadter,/wiki/Rudolf_M%C3%B6ssbauer,
-64,1960,Donald A. Glaser,,,/wiki/Donald_A._Glaser,,
-65,1959,Emilio Segrè,Owen Chamberlain,,/wiki/Emilio_Segr%C3%A8,/wiki/Owen_Chamberlain,
+62,1962,Lev Landau,No Record,No Record,/wiki/Lev_Landau,No Record,No Record
+63,1961,Robert Hofstadter,Rudolf Mössbauer,No Record,/wiki/Robert_Hofstadter,/wiki/Rudolf_M%C3%B6ssbauer,No Record
+64,1960,Donald A. Glaser,No Record,No Record,/wiki/Donald_A._Glaser,No Record,No Record
+65,1959,Emilio Segrè,Owen Chamberlain,No Record,/wiki/Emilio_Segr%C3%A8,/wiki/Owen_Chamberlain,No Record
 66,1958,Pavel Cherenkov,Ilya Frank,Igor Tamm,/wiki/Pavel_Cherenkov,/wiki/Ilya_Frank,/wiki/Igor_Tamm
-67,1957,Yang Chen-Ning,Tsung-Dao Lee,,/wiki/Yang_Chen-Ning,/wiki/Tsung-Dao_Lee,
+67,1957,Yang Chen-Ning,Tsung-Dao Lee,No Record,/wiki/Yang_Chen-Ning,/wiki/Tsung-Dao_Lee,No Record
 68,1956,John Bardeen,Walter Houser Brattain,William Shockley,/wiki/John_Bardeen,/wiki/Walter_Houser_Brattain,/wiki/William_Shockley
-69,1955,Willis Lamb,Polykarp Kusch,,/wiki/Willis_Lamb,/wiki/Polykarp_Kusch,
-70,1954,Max Born,Walther Bothe,,/wiki/Max_Born,/wiki/Walther_Bothe,
-71,1953,Frits Zernike,,,/wiki/Frits_Zernike,,
-72,1952,Felix Bloch,Edward Mills Purcell,,/wiki/Felix_Bloch,/wiki/Edward_Mills_Purcell,
-73,1951,John Cockcroft,Ernest Walton,,/wiki/John_Cockcroft,/wiki/Ernest_Walton,
-74,1950,C. F. Powell,,,/wiki/C._F._Powell,,
-75,1949,Hideki Yukawa,,,/wiki/Hideki_Yukawa,,
-76,1948,Patrick Blackett,,,/wiki/Patrick_Blackett,,
-77,1947,Edward Victor Appleton,,,/wiki/Edward_Victor_Appleton,,
-78,1946,Percy Williams Bridgman,,,/wiki/Percy_Williams_Bridgman,,
-79,1945,Wolfgang Pauli,,,/wiki/Wolfgang_Pauli,,
-80,1944,Isidor Isaac Rabi,,,/wiki/Isidor_Isaac_Rabi,,
-81,1943,Otto Stern,,,/wiki/Otto_Stern,,
-82,1942,No Record,,,No Record,,
-83,1941,No Record,,,No Record,,
-84,1940,Cancelled due to World War II,,,No Record,,
-85,1939,Ernest Lawrence,,,/wiki/Ernest_Lawrence,,
-86,1938,Enrico Fermi,,,/wiki/Enrico_Fermi,,
-87,1937,Clinton Davisson,George Paget Thomson,,/wiki/Clinton_Davisson,/wiki/George_Paget_Thomson,
-88,1936,Victor Francis Hess,Carl David Anderson,,/wiki/Victor_Francis_Hess,/wiki/Carl_David_Anderson,
-89,1935,James Chadwick,,,/wiki/James_Chadwick,,
-90,1934,,,,Harold Urey,,
-91,1933,Erwin Schrödinger,Paul Dirac,,/wiki/Erwin_Schr%C3%B6dinger,/wiki/Paul_Dirac,
-92,1932,Werner Heisenberg,,,/wiki/Werner_Heisenberg,,
-93,1931,,,,Carl Bosch,Friedrich Bergius,
-94,1930,C. V. Raman,,,/wiki/C._V._Raman,,
-95,1929,Louis de Broglie,,,/wiki/Louis_de_Broglie,,
-96,1928,Owen Willans Richardson,,,/wiki/Owen_Willans_Richardson,,
-97,1927,Arthur Compton,Charles Thomson Rees Wilson,,/wiki/Arthur_Compton,/wiki/Charles_Thomson_Rees_Wilson,
-98,1926,Jean Baptiste Perrin,,,/wiki/Jean_Baptiste_Perrin,,
-99,1925,James Franck,Gustav Ludwig Hertz,,/wiki/James_Franck,/wiki/Gustav_Ludwig_Hertz,
-100,1924,Manne Siegbahn,,,/wiki/Manne_Siegbahn,,
-101,1923,Robert Andrews Millikan,,,/wiki/Robert_Andrews_Millikan,,
-102,1922,Niels Bohr,,,/wiki/Niels_Bohr,,
-103,1921,Albert Einstein,,,/wiki/Albert_Einstein,,
-104,1920,Charles Édouard Guillaume,,,/wiki/Charles_%C3%89douard_Guillaume,,
-105,1919,Johannes Stark,,,/wiki/Johannes_Stark,,
-106,1918,Max Planck,,,/wiki/Max_Planck,,
-107,1917,Charles Glover Barkla,,,/wiki/Charles_Glover_Barkla,,
-108,1916,,,,,,
-109,1915,William Henry Bragg,Lawrence Bragg,,/wiki/William_Henry_Bragg,/wiki/Lawrence_Bragg,
-110,1914,Max von Laue,,,/wiki/Max_von_Laue,,
-111,1913,Heike Kamerlingh Onnes,,,/wiki/Heike_Kamerlingh_Onnes,,
-112,1912,Gustaf Dalén,,,/wiki/Gustaf_Dal%C3%A9n,,
-113,1911,Wilhelm Wien,,,/wiki/Wilhelm_Wien,,
-114,1910,Johannes Diderik van der Waals,,,/wiki/Johannes_Diderik_van_der_Waals,,
-115,1909,Karl Ferdinand Braun,Guglielmo Marconi,,/wiki/Karl_Ferdinand_Braun,/wiki/Guglielmo_Marconi,
-116,1908,Gabriel Lippmann,,,/wiki/Gabriel_Lippmann,,
-117,1907,Albert A. Michelson,,,/wiki/Albert_A._Michelson,,
-118,1906,J. J. Thomson,,,/wiki/J._J._Thomson,,
-119,1905,Philipp Lenard,,,/wiki/Philipp_Lenard,,
-120,1904,Lord Rayleigh,,,"/wiki/John_Strutt,_3rd_Baron_Rayleigh",,
+69,1955,Willis Lamb,Polykarp Kusch,No Record,/wiki/Willis_Lamb,/wiki/Polykarp_Kusch,No Record
+70,1954,Max Born,Walther Bothe,No Record,/wiki/Max_Born,/wiki/Walther_Bothe,No Record
+71,1953,Frits Zernike,No Record,No Record,/wiki/Frits_Zernike,No Record,No Record
+72,1952,Felix Bloch,Edward Mills Purcell,No Record,/wiki/Felix_Bloch,/wiki/Edward_Mills_Purcell,No Record
+73,1951,John Cockcroft,Ernest Walton,No Record,/wiki/John_Cockcroft,/wiki/Ernest_Walton,No Record
+74,1950,C. F. Powell,No Record,No Record,/wiki/C._F._Powell,No Record,No Record
+75,1949,Hideki Yukawa,No Record,No Record,/wiki/Hideki_Yukawa,No Record,No Record
+76,1948,Patrick Blackett,No Record,No Record,/wiki/Patrick_Blackett,No Record,No Record
+77,1947,Edward Victor Appleton,No Record,No Record,/wiki/Edward_Victor_Appleton,No Record,No Record
+78,1946,Percy Williams Bridgman,No Record,No Record,/wiki/Percy_Williams_Bridgman,No Record,No Record
+79,1945,Wolfgang Pauli,No Record,No Record,/wiki/Wolfgang_Pauli,No Record,No Record
+80,1944,Isidor Isaac Rabi,No Record,No Record,/wiki/Isidor_Isaac_Rabi,No Record,No Record
+81,1943,Otto Stern,No Record,No Record,/wiki/Otto_Stern,No Record,No Record
+82,1942,No Record,No Record,No Record,No Record,No Record,No Record
+83,1941,No Record,No Record,No Record,No Record,No Record,No Record
+84,1940,Cancelled due to World War II,No Record,No Record,No Record,No Record,No Record
+85,1939,Ernest Lawrence,No Record,No Record,/wiki/Ernest_Lawrence,No Record,No Record
+86,1938,Enrico Fermi,No Record,No Record,/wiki/Enrico_Fermi,No Record,No Record
+87,1937,Clinton Davisson,George Paget Thomson,No Record,/wiki/Clinton_Davisson,/wiki/George_Paget_Thomson,No Record
+88,1936,Victor Francis Hess,Carl David Anderson,No Record,/wiki/Victor_Francis_Hess,/wiki/Carl_David_Anderson,No Record
+89,1935,James Chadwick,No Record,No Record,/wiki/James_Chadwick,No Record,No Record
+90,1934,No Record,No Record,No Record,No Record,No Record,No Record
+91,1933,Erwin Schrödinger,Paul Dirac,No Record,/wiki/Erwin_Schr%C3%B6dinger,/wiki/Paul_Dirac,No Record
+92,1932,Werner Heisenberg,No Record,No Record,/wiki/Werner_Heisenberg,No Record,No Record
+93,1931,No Record,No Record,No Record,No Record,No Record,No Record
+94,1930,C. V. Raman,No Record,No Record,/wiki/C._V._Raman,No Record,No Record
+95,1929,Louis de Broglie,No Record,No Record,/wiki/Louis_de_Broglie,No Record,No Record
+96,1928,Owen Willans Richardson,No Record,No Record,/wiki/Owen_Willans_Richardson,No Record,No Record
+97,1927,Arthur Compton,Charles Thomson Rees Wilson,No Record,/wiki/Arthur_Compton,/wiki/Charles_Thomson_Rees_Wilson,No Record
+98,1926,Jean Baptiste Perrin,No Record,No Record,/wiki/Jean_Baptiste_Perrin,No Record,No Record
+99,1925,James Franck,Gustav Ludwig Hertz,No Record,/wiki/James_Franck,/wiki/Gustav_Ludwig_Hertz,No Record
+100,1924,Manne Siegbahn,No Record,No Record,/wiki/Manne_Siegbahn,No Record,No Record
+101,1923,Robert Andrews Millikan,No Record,No Record,/wiki/Robert_Andrews_Millikan,No Record,No Record
+102,1922,Niels Bohr,No Record,No Record,/wiki/Niels_Bohr,No Record,No Record
+103,1921,Albert Einstein,No Record,No Record,/wiki/Albert_Einstein,No Record,No Record
+104,1920,Charles Édouard Guillaume,No Record,No Record,/wiki/Charles_%C3%89douard_Guillaume,No Record,No Record
+105,1919,Johannes Stark,No Record,No Record,/wiki/Johannes_Stark,No Record,No Record
+106,1918,Max Planck,No Record,No Record,/wiki/Max_Planck,No Record,No Record
+107,1917,Charles Glover Barkla,No Record,No Record,/wiki/Charles_Glover_Barkla,No Record,No Record
+108,1916,No Record,No Record,No Record,No Record,No Record,No Record
+109,1915,William Henry Bragg,Lawrence Bragg,No Record,/wiki/William_Henry_Bragg,/wiki/Lawrence_Bragg,No Record
+110,1914,Max von Laue,No Record,No Record,/wiki/Max_von_Laue,No Record,No Record
+111,1913,Heike Kamerlingh Onnes,No Record,No Record,/wiki/Heike_Kamerlingh_Onnes,No Record,No Record
+112,1912,Gustaf Dalén,No Record,No Record,/wiki/Gustaf_Dal%C3%A9n,No Record,No Record
+113,1911,Wilhelm Wien,No Record,No Record,/wiki/Wilhelm_Wien,No Record,No Record
+114,1910,Johannes Diderik van der Waals,No Record,No Record,/wiki/Johannes_Diderik_van_der_Waals,No Record,No Record
+115,1909,Karl Ferdinand Braun,Guglielmo Marconi,No Record,/wiki/Karl_Ferdinand_Braun,/wiki/Guglielmo_Marconi,No Record
+116,1908,Gabriel Lippmann,No Record,No Record,/wiki/Gabriel_Lippmann,No Record,No Record
+117,1907,Albert A. Michelson,No Record,No Record,/wiki/Albert_A._Michelson,No Record,No Record
+118,1906,J. J. Thomson,No Record,No Record,/wiki/J._J._Thomson,No Record,No Record
+119,1905,Philipp Lenard,No Record,No Record,/wiki/Philipp_Lenard,No Record,No Record
+120,1904,Lord Rayleigh,No Record,No Record,"/wiki/John_Strutt,_3rd_Baron_Rayleigh",No Record,No Record
 121,1903,Henri Becquerel,Pierre Curie,Marie Curie,/wiki/Henri_Becquerel,/wiki/Pierre_Curie,/wiki/Marie_Curie
-122,1902,Hendrik Lorentz,Pieter Zeeman,,/wiki/Hendrik_Lorentz,/wiki/Pieter_Zeeman,
-123,1901,Wilhelm Röntgen,,,/wiki/Wilhelm_R%C3%B6ntgen,,
+122,1902,Hendrik Lorentz,Pieter Zeeman,No Record,/wiki/Hendrik_Lorentz,/wiki/Pieter_Zeeman,No Record
+123,1901,Wilhelm Röntgen,No Record,No Record,/wiki/Wilhelm_R%C3%B6ntgen,No Record,No Record

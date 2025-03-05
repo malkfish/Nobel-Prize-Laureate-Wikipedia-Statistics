@@ -2,8 +2,8 @@
 0,2024,David Baker,Demis Hassabis,John M. Jumper,/wiki/David_Baker_(biochemist),/wiki/Demis_Hassabis,/wiki/John_M._Jumper
 1,2023,Moungi Bawendi,Louis E. Brus,Alexey Ekimov,/wiki/Moungi_Bawendi,/wiki/Louis_E._Brus,/wiki/Alexey_Ekimov
 2,2022,Carolyn Bertozzi,Morten P. Meldal,Karl Barry Sharpless,/wiki/Carolyn_Bertozzi,/wiki/Morten_P._Meldal,/wiki/Karl_Barry_Sharpless
-3,2021,Benjamin List,David MacMillan,,/wiki/Benjamin_List,/wiki/David_MacMillan,
-4,2020,Emmanuelle Charpentier,Jennifer Doudna,,/wiki/Emmanuelle_Charpentier,/wiki/Jennifer_Doudna,
+3,2021,Benjamin List,David MacMillan,No Record,/wiki/Benjamin_List,/wiki/David_MacMillan,No Record
+4,2020,Emmanuelle Charpentier,Jennifer Doudna,No Record,/wiki/Emmanuelle_Charpentier,/wiki/Jennifer_Doudna,No Record
 5,2019,John B. Goodenough,M. Stanley Whittingham,Akira Yoshino,/wiki/John_B._Goodenough,/wiki/M._Stanley_Whittingham,/wiki/Akira_Yoshino
 6,2018,Frances H. Arnold,George Smith,Greg Winter,/wiki/Frances_H._Arnold,/wiki/George_Smith_(chemist),/wiki/Greg_Winter
 7,2017,Jacques Dubochet,Joachim Frank,Richard Henderson,/wiki/Jacques_Dubochet,/wiki/Joachim_Frank,/wiki/Richard_Henderson_(biologist)
@@ -11,115 +11,115 @@
 9,2015,Tomas Lindahl,Paul L. Modrich,Aziz Sancar,/wiki/Tomas_Lindahl,/wiki/Paul_Modrich,/wiki/Aziz_Sancar
 10,2014,Eric Betzig,Stefan Hell,William Moerner,/wiki/Eric_Betzig,/wiki/Stefan_Hell,/wiki/William_Moerner
 11,2013,Martin Karplus,Michael Levitt,Arieh Warshel,/wiki/Martin_Karplus,/wiki/Michael_Levitt_(biophysicist),/wiki/Arieh_Warshel
-12,2012,Brian K. Kobilka,Robert J. Lefkowitz,,/wiki/Brian_Kobilka,/wiki/Robert_Lefkowitz,
-13,2011,Dan Shechtman,,,/wiki/Dan_Shechtman,,
+12,2012,Brian K. Kobilka,Robert J. Lefkowitz,No Record,/wiki/Brian_Kobilka,/wiki/Robert_Lefkowitz,No Record
+13,2011,Dan Shechtman,No Record,No Record,/wiki/Dan_Shechtman,No Record,No Record
 14,2010,Richard F. Heck,Ei-ichi Negishi,Akira Suzuki,/wiki/Richard_F._Heck,/wiki/Ei-ichi_Negishi,/wiki/Akira_Suzuki_(chemist)
 15,2009,Venkatraman Ramakrishnan,Thomas A. Steitz,Ada Yonath,/wiki/Venkatraman_Ramakrishnan,/wiki/Thomas_A._Steitz,/wiki/Ada_Yonath
 16,2008,Osamu Shimomura,Martin Chalfie,Roger Y. Tsien,/wiki/Osamu_Shimomura,/wiki/Martin_Chalfie,/wiki/Roger_Y._Tsien
-17,2007,Gerhard Ertl,,,/wiki/Gerhard_Ertl,,
-18,2006,Roger D. Kornberg,,,/wiki/Roger_D._Kornberg,,
+17,2007,Gerhard Ertl,No Record,No Record,/wiki/Gerhard_Ertl,No Record,No Record
+18,2006,Roger D. Kornberg,No Record,No Record,/wiki/Roger_D._Kornberg,No Record,No Record
 19,2005,Yves Chauvin,Robert H. Grubbs,Richard R. Schrock,/wiki/Yves_Chauvin,/wiki/Robert_H._Grubbs,/wiki/Richard_R._Schrock
 20,2004,Aaron Ciechanover,Avram Hershko,Irwin Rose,/wiki/Aaron_Ciechanover,/wiki/Avram_Hershko,/wiki/Irwin_Rose
-21,2003,Peter Agre,Roderick MacKinnon,,/wiki/Peter_Agre,/wiki/Roderick_MacKinnon,
+21,2003,Peter Agre,Roderick MacKinnon,No Record,/wiki/Peter_Agre,/wiki/Roderick_MacKinnon,No Record
 22,2002,John B. Fenn,Koichi Tanaka,Kurt Wüthrich,/wiki/John_B._Fenn,/wiki/Koichi_Tanaka,/wiki/Kurt_W%C3%BCthrich
 23,2001,William Standish Knowles,Ryōji Noyori,Karl Barry Sharpless,/wiki/William_Standish_Knowles,/wiki/Ry%C5%8Dji_Noyori,/wiki/Karl_Barry_Sharpless
 24,2000,Alan J. Heeger,Alan MacDiarmid,Hideki Shirakawa,/wiki/Alan_J._Heeger,/wiki/Alan_MacDiarmid,/wiki/Hideki_Shirakawa
-25,1999,Ahmed Zewail,,,/wiki/Ahmed_Zewail,,
-26,1998,Walter Kohn,John Pople,,/wiki/Walter_Kohn,/wiki/John_Pople,
+25,1999,Ahmed Zewail,No Record,No Record,/wiki/Ahmed_Zewail,No Record,No Record
+26,1998,Walter Kohn,John Pople,No Record,/wiki/Walter_Kohn,/wiki/John_Pople,No Record
 27,1997,Paul D. Boyer,John E. Walker,Jens Christian Skou,/wiki/Paul_D._Boyer,/wiki/John_E._Walker,/wiki/Jens_Christian_Skou
 28,1996,Robert Curl,Harry Kroto,Richard Smalley,/wiki/Robert_Curl,/wiki/Harry_Kroto,/wiki/Richard_Smalley
 29,1995,Paul J. Crutzen,Mario J. Molina,F. Sherwood Rowland,/wiki/Paul_J._Crutzen,/wiki/Mario_J._Molina,/wiki/F._Sherwood_Rowland
-30,1994,George Andrew Olah,,,/wiki/George_Andrew_Olah,,
-31,1993,Kary Mullis,Michael Smith,,/wiki/Kary_Mullis,/wiki/Michael_Smith_(chemist),
-32,1992,Rudolph A. Marcus,,,/wiki/Rudolph_A._Marcus,,
-33,1991,Richard R. Ernst,,,/wiki/Richard_R._Ernst,,
-34,1990,Elias James Corey,,,/wiki/Elias_James_Corey,,
-35,1989,Sidney Altman,Thomas Cech,,/wiki/Sidney_Altman,/wiki/Thomas_Cech,
+30,1994,George Andrew Olah,No Record,No Record,/wiki/George_Andrew_Olah,No Record,No Record
+31,1993,Kary Mullis,Michael Smith,No Record,/wiki/Kary_Mullis,/wiki/Michael_Smith_(chemist),No Record
+32,1992,Rudolph A. Marcus,No Record,No Record,/wiki/Rudolph_A._Marcus,No Record,No Record
+33,1991,Richard R. Ernst,No Record,No Record,/wiki/Richard_R._Ernst,No Record,No Record
+34,1990,Elias James Corey,No Record,No Record,/wiki/Elias_James_Corey,No Record,No Record
+35,1989,Sidney Altman,Thomas Cech,No Record,/wiki/Sidney_Altman,/wiki/Thomas_Cech,No Record
 36,1988,Johann Deisenhofer,Robert Huber,Hartmut Michel,/wiki/Johann_Deisenhofer,/wiki/Robert_Huber,/wiki/Hartmut_Michel
 37,1987,Donald J. Cram,Jean-Marie Lehn,Charles J. Pedersen,/wiki/Donald_J._Cram,/wiki/Jean-Marie_Lehn,/wiki/Charles_J._Pedersen
 38,1986,Dudley R. Herschbach,Yuan T. Lee,John Polanyi,/wiki/Dudley_R._Herschbach,/wiki/Yuan_T._Lee,/wiki/John_Polanyi
-39,1985,Herbert A. Hauptman,Jerome Karle,,/wiki/Herbert_A._Hauptman,/wiki/Jerome_Karle,
-40,1984,Robert Bruce Merrifield,,,/wiki/Robert_Bruce_Merrifield,,
-41,1983,Henry Taube,,,/wiki/Henry_Taube,,
-42,1982,Aaron Klug,,,/wiki/Aaron_Klug,,
-43,1981,Kenichi Fukui,Roald Hoffmann,,/wiki/Kenichi_Fukui,/wiki/Roald_Hoffmann,
+39,1985,Herbert A. Hauptman,Jerome Karle,No Record,/wiki/Herbert_A._Hauptman,/wiki/Jerome_Karle,No Record
+40,1984,Robert Bruce Merrifield,No Record,No Record,/wiki/Robert_Bruce_Merrifield,No Record,No Record
+41,1983,Henry Taube,No Record,No Record,/wiki/Henry_Taube,No Record,No Record
+42,1982,Aaron Klug,No Record,No Record,/wiki/Aaron_Klug,No Record,No Record
+43,1981,Kenichi Fukui,Roald Hoffmann,No Record,/wiki/Kenichi_Fukui,/wiki/Roald_Hoffmann,No Record
 44,1980,Paul Berg,Walter Gilbert,Frederick Sanger,/wiki/Paul_Berg,/wiki/Walter_Gilbert,/wiki/Frederick_Sanger
-45,1979,Herbert C. Brown,Georg Wittig,,/wiki/Herbert_C._Brown,/wiki/Georg_Wittig,
-46,1978,Peter D. Mitchell,,,/wiki/Peter_D._Mitchell,,
-47,1977,Ilya Prigogine,,,/wiki/Ilya_Prigogine,,
-48,1976,William Lipscomb,,,/wiki/William_Lipscomb,,
-49,1975,John Cornforth,Vladimir Prelog,,/wiki/John_Cornforth,/wiki/Vladimir_Prelog,
-50,1974,Paul Flory,,,/wiki/Paul_Flory,,
-51,1973,Ernst Otto Fischer,Geoffrey Wilkinson,,/wiki/Ernst_Otto_Fischer,/wiki/Geoffrey_Wilkinson,
+45,1979,Herbert C. Brown,Georg Wittig,No Record,/wiki/Herbert_C._Brown,/wiki/Georg_Wittig,No Record
+46,1978,Peter D. Mitchell,No Record,No Record,/wiki/Peter_D._Mitchell,No Record,No Record
+47,1977,Ilya Prigogine,No Record,No Record,/wiki/Ilya_Prigogine,No Record,No Record
+48,1976,William Lipscomb,No Record,No Record,/wiki/William_Lipscomb,No Record,No Record
+49,1975,John Cornforth,Vladimir Prelog,No Record,/wiki/John_Cornforth,/wiki/Vladimir_Prelog,No Record
+50,1974,Paul Flory,No Record,No Record,/wiki/Paul_Flory,No Record,No Record
+51,1973,Ernst Otto Fischer,Geoffrey Wilkinson,No Record,/wiki/Ernst_Otto_Fischer,/wiki/Geoffrey_Wilkinson,No Record
 52,1972,Christian B. Anfinsen,Stanford Moore,William Howard Stein,/wiki/Christian_B._Anfinsen,/wiki/Stanford_Moore,/wiki/William_Howard_Stein
-53,1971,Gerhard Herzberg,,,/wiki/Gerhard_Herzberg,,
-54,1970,Luis Federico Leloir,,,/wiki/Luis_Federico_Leloir,,
-55,1969,Derek Barton,Odd Hassel,,/wiki/Derek_Barton,/wiki/Odd_Hassel,
-56,1968,Lars Onsager,,,/wiki/Lars_Onsager,,
+53,1971,Gerhard Herzberg,No Record,No Record,/wiki/Gerhard_Herzberg,No Record,No Record
+54,1970,Luis Federico Leloir,No Record,No Record,/wiki/Luis_Federico_Leloir,No Record,No Record
+55,1969,Derek Barton,Odd Hassel,No Record,/wiki/Derek_Barton,/wiki/Odd_Hassel,No Record
+56,1968,Lars Onsager,No Record,No Record,/wiki/Lars_Onsager,No Record,No Record
 57,1967,Manfred Eigen,Ronald George Wreyford Norrish,George Porter,/wiki/Manfred_Eigen,/wiki/Ronald_George_Wreyford_Norrish,/wiki/George_Porter
-58,1966,Robert S. Mulliken,,,/wiki/Robert_S._Mulliken,,
-59,1965,Robert Burns Woodward,,,/wiki/Robert_Burns_Woodward,,
-60,1964,Dorothy Hodgkin,,,/wiki/Dorothy_Hodgkin,,
-61,1963,Karl Ziegler,Giulio Natta,,/wiki/Karl_Ziegler,/wiki/Giulio_Natta,
-62,1962,Max Perutz,John Kendrew,,/wiki/Max_Perutz,/wiki/John_Kendrew,
-63,1961,Melvin Calvin,,,/wiki/Melvin_Calvin,,
-64,1960,Willard Libby,,,/wiki/Willard_Libby,,
-65,1959,Jaroslav Heyrovský,,,/wiki/Jaroslav_Heyrovsk%C3%BD,,
-66,1958,Frederick Sanger,,,/wiki/Frederick_Sanger,,
-67,1957,The Lord Todd,,,/wiki/Alexander_R._Todd,,
-68,1956,Cyril Norman Hinshelwood,Nikolay Semyonov,,/wiki/Cyril_Norman_Hinshelwood,/wiki/Nikolay_Semyonov,
-69,1955,Vincent du Vigneaud,,,/wiki/Vincent_du_Vigneaud,,
-70,1954,Linus Pauling,,,/wiki/Linus_Pauling,,
-71,1953,Hermann Staudinger,,,/wiki/Hermann_Staudinger,,
-72,1952,Archer Martin,Richard Laurence Millington Synge,,/wiki/Archer_Martin,/wiki/Richard_Laurence_Millington_Synge,
-73,1951,Edwin McMillan,Glenn T. Seaborg,,/wiki/Edwin_McMillan,/wiki/Glenn_T._Seaborg,
-74,1950,Otto Diels,Kurt Alder,,/wiki/Otto_Diels,/wiki/Kurt_Alder,
-75,1949,William Giauque,,,/wiki/William_Giauque,,
-76,1948,Arne Tiselius,,,/wiki/Arne_Tiselius,,
-77,1947,Robert Robinson,,,/wiki/Robert_Robinson_(organic_chemist),,
+58,1966,Robert S. Mulliken,No Record,No Record,/wiki/Robert_S._Mulliken,No Record,No Record
+59,1965,Robert Burns Woodward,No Record,No Record,/wiki/Robert_Burns_Woodward,No Record,No Record
+60,1964,Dorothy Hodgkin,No Record,No Record,/wiki/Dorothy_Hodgkin,No Record,No Record
+61,1963,Karl Ziegler,Giulio Natta,No Record,/wiki/Karl_Ziegler,/wiki/Giulio_Natta,No Record
+62,1962,Max Perutz,John Kendrew,No Record,/wiki/Max_Perutz,/wiki/John_Kendrew,No Record
+63,1961,Melvin Calvin,No Record,No Record,/wiki/Melvin_Calvin,No Record,No Record
+64,1960,Willard Libby,No Record,No Record,/wiki/Willard_Libby,No Record,No Record
+65,1959,Jaroslav Heyrovský,No Record,No Record,/wiki/Jaroslav_Heyrovsk%C3%BD,No Record,No Record
+66,1958,Frederick Sanger,No Record,No Record,/wiki/Frederick_Sanger,No Record,No Record
+67,1957,The Lord Todd,No Record,No Record,/wiki/Alexander_R._Todd,No Record,No Record
+68,1956,Cyril Norman Hinshelwood,Nikolay Semyonov,No Record,/wiki/Cyril_Norman_Hinshelwood,/wiki/Nikolay_Semyonov,No Record
+69,1955,Vincent du Vigneaud,No Record,No Record,/wiki/Vincent_du_Vigneaud,No Record,No Record
+70,1954,Linus Pauling,No Record,No Record,/wiki/Linus_Pauling,No Record,No Record
+71,1953,Hermann Staudinger,No Record,No Record,/wiki/Hermann_Staudinger,No Record,No Record
+72,1952,Archer Martin,Richard Laurence Millington Synge,No Record,/wiki/Archer_Martin,/wiki/Richard_Laurence_Millington_Synge,No Record
+73,1951,Edwin McMillan,Glenn T. Seaborg,No Record,/wiki/Edwin_McMillan,/wiki/Glenn_T._Seaborg,No Record
+74,1950,Otto Diels,Kurt Alder,No Record,/wiki/Otto_Diels,/wiki/Kurt_Alder,No Record
+75,1949,William Giauque,No Record,No Record,/wiki/William_Giauque,No Record,No Record
+76,1948,Arne Tiselius,No Record,No Record,/wiki/Arne_Tiselius,No Record,No Record
+77,1947,Robert Robinson,No Record,No Record,/wiki/Robert_Robinson_(organic_chemist),No Record,No Record
 78,1946,James B. Sumner,John Howard Northrop,Wendell Meredith Stanley,/wiki/James_B._Sumner,/wiki/John_Howard_Northrop,/wiki/Wendell_Meredith_Stanley
-79,1945,Artturi Ilmari Virtanen,,,/wiki/Artturi_Ilmari_Virtanen,,
-80,1944,Otto Hahn,,,/wiki/Otto_Hahn,,
-81,1943,George de Hevesy,,,/wiki/George_de_Hevesy,,
-82,1942,No Record,,,No Record,,
-83,1941,No Record,,,No Record,,
-84,1940,No Record,,,No Record,,
-85,1939,Adolf Butenandt,,,/wiki/Adolf_Butenandt,#cite_note-A-15,/wiki/Leopold_Ru%C5%BEi%C4%8Dka
-86,1938,Richard Kuhn,,,/wiki/Richard_Kuhn,#cite_note-A-15,
-87,1937,Norman Haworth,Paul Karrer,,/wiki/Norman_Haworth,/wiki/Paul_Karrer,
-88,1936,Peter Debye,,,/wiki/Peter_Debye,,
-89,1935,Frédéric Joliot-Curie,Irène Joliot-Curie,,/wiki/Fr%C3%A9d%C3%A9ric_Joliot-Curie,/wiki/Ir%C3%A8ne_Joliot-Curie,
-90,1934,/wiki/Harold_Urey,,,George Whipple,George Minot,William P. Murphy
-91,1933,,,,Thomas Hunt Morgan,,
-92,1932,Irving Langmuir,,,/wiki/Irving_Langmuir,,
-93,1931,/wiki/Carl_Bosch,/wiki/Friedrich_Bergius,,Otto Heinrich Warburg,,
-94,1930,Hans Fischer,,,/wiki/Hans_Fischer,,
-95,1929,Arthur Harden,Hans von Euler-Chelpin,,/wiki/Arthur_Harden,/wiki/Hans_von_Euler-Chelpin,
-96,1928,Adolf Windaus,,,/wiki/Adolf_Windaus,,
-97,1927,Heinrich Otto Wieland,,,/wiki/Heinrich_Otto_Wieland,,
-98,1926,Theodor Svedberg,,,/wiki/Theodor_Svedberg,,
-99,1925,Richard Adolf Zsigmondy,,,/wiki/Richard_Adolf_Zsigmondy,,
-100,1924,,,,Willem Einthoven,,
-101,1923,Fritz Pregl,,,/wiki/Fritz_Pregl,,
-102,1922,Francis William Aston,,,/wiki/Francis_William_Aston,,
-103,1921,Frederick Soddy,,,/wiki/Frederick_Soddy,,
-104,1920,Walther Nernst,,,/wiki/Walther_Nernst,,
-105,1919,,,,Jules Bordet,,
-106,1918,Fritz Haber,,,/wiki/Fritz_Haber,,
-107,1917,,,,,,
-108,1916,,,,Verner von Heidenstam,,
-109,1915,Richard Willstätter,,,/wiki/Richard_Willst%C3%A4tter,,
-110,1914,Theodore William Richards,,,/wiki/Theodore_William_Richards,,
-111,1913,Alfred Werner,,,/wiki/Alfred_Werner,,
-112,1912,Victor Grignard,Paul Sabatier,,/wiki/Victor_Grignard,/wiki/Paul_Sabatier_(chemist),
-113,1911,Marie Curie,,,/wiki/Marie_Curie,,
-114,1910,Otto Wallach,,,/wiki/Otto_Wallach,,
-115,1909,Wilhelm Ostwald,,,/wiki/Wilhelm_Ostwald,,
-116,1908,Ernest Rutherford,,,/wiki/Ernest_Rutherford,,
-117,1907,Eduard Buchner,,,/wiki/Eduard_Buchner,,
-118,1906,Henri Moissan,,,/wiki/Henri_Moissan,,
-119,1905,Adolf von Baeyer,,,/wiki/Adolf_von_Baeyer,,
-120,1904,William Ramsay,,,/wiki/William_Ramsay,,
-121,1903,Svante Arrhenius,,,/wiki/Svante_Arrhenius,,
-122,1902,Emil Fischer,,,/wiki/Emil_Fischer,,
-123,1901,Jacobus Henricus van 't Hoff,,,/wiki/Jacobus_Henricus_van_%27t_Hoff,,
+79,1945,Artturi Ilmari Virtanen,No Record,No Record,/wiki/Artturi_Ilmari_Virtanen,No Record,No Record
+80,1944,Otto Hahn,No Record,No Record,/wiki/Otto_Hahn,No Record,No Record
+81,1943,George de Hevesy,No Record,No Record,/wiki/George_de_Hevesy,No Record,No Record
+82,1942,No Record,No Record,No Record,No Record,No Record,No Record
+83,1941,No Record,No Record,No Record,No Record,No Record,No Record
+84,1940,No Record,No Record,No Record,No Record,No Record,No Record
+85,1939,Adolf Butenandt,,No Record,/wiki/Adolf_Butenandt,#cite_note-A-15,/wiki/Leopold_Ru%C5%BEi%C4%8Dka
+86,1938,Richard Kuhn,No Record,No Record,/wiki/Richard_Kuhn,#cite_note-A-15,No Record
+87,1937,Norman Haworth,Paul Karrer,No Record,/wiki/Norman_Haworth,/wiki/Paul_Karrer,No Record
+88,1936,Peter Debye,No Record,No Record,/wiki/Peter_Debye,No Record,No Record
+89,1935,Frédéric Joliot-Curie,Irène Joliot-Curie,No Record,/wiki/Fr%C3%A9d%C3%A9ric_Joliot-Curie,/wiki/Ir%C3%A8ne_Joliot-Curie,No Record
+90,1934,Harold Urey,No Record,No Record,/wiki/Harold_Urey,No Record,No Record
+91,1933,No Record,No Record,No Record,No Record,No Record,No Record
+92,1932,Irving Langmuir,No Record,No Record,/wiki/Irving_Langmuir,No Record,No Record
+93,1931,Carl Bosch,Friedrich Bergius,No Record,/wiki/Carl_Bosch,/wiki/Friedrich_Bergius,No Record
+94,1930,Hans Fischer,No Record,No Record,/wiki/Hans_Fischer,No Record,No Record
+95,1929,Arthur Harden,Hans von Euler-Chelpin,No Record,/wiki/Arthur_Harden,/wiki/Hans_von_Euler-Chelpin,No Record
+96,1928,Adolf Windaus,No Record,No Record,/wiki/Adolf_Windaus,No Record,No Record
+97,1927,Heinrich Otto Wieland,No Record,No Record,/wiki/Heinrich_Otto_Wieland,No Record,No Record
+98,1926,Theodor Svedberg,No Record,No Record,/wiki/Theodor_Svedberg,No Record,No Record
+99,1925,Richard Adolf Zsigmondy,No Record,No Record,/wiki/Richard_Adolf_Zsigmondy,No Record,No Record
+100,1924,No Record,No Record,No Record,No Record,No Record,No Record
+101,1923,Fritz Pregl,No Record,No Record,/wiki/Fritz_Pregl,No Record,No Record
+102,1922,Francis William Aston,No Record,No Record,/wiki/Francis_William_Aston,No Record,No Record
+103,1921,Frederick Soddy,No Record,No Record,/wiki/Frederick_Soddy,No Record,No Record
+104,1920,Walther Nernst,No Record,No Record,/wiki/Walther_Nernst,No Record,No Record
+105,1919,No Record,No Record,No Record,No Record,No Record,No Record
+106,1918,Fritz Haber,No Record,No Record,/wiki/Fritz_Haber,No Record,No Record
+107,1917,No Record,No Record,No Record,No Record,No Record,No Record
+108,1916,No Record,No Record,No Record,No Record,No Record,No Record
+109,1915,Richard Willstätter,No Record,No Record,/wiki/Richard_Willst%C3%A4tter,No Record,No Record
+110,1914,Theodore William Richards,No Record,No Record,/wiki/Theodore_William_Richards,No Record,No Record
+111,1913,Alfred Werner,No Record,No Record,/wiki/Alfred_Werner,No Record,No Record
+112,1912,Victor Grignard,Paul Sabatier,No Record,/wiki/Victor_Grignard,/wiki/Paul_Sabatier_(chemist),No Record
+113,1911,Marie Curie,No Record,No Record,/wiki/Marie_Curie,No Record,No Record
+114,1910,Otto Wallach,No Record,No Record,/wiki/Otto_Wallach,No Record,No Record
+115,1909,Wilhelm Ostwald,No Record,No Record,/wiki/Wilhelm_Ostwald,No Record,No Record
+116,1908,Ernest Rutherford,No Record,No Record,/wiki/Ernest_Rutherford,No Record,No Record
+117,1907,Eduard Buchner,No Record,No Record,/wiki/Eduard_Buchner,No Record,No Record
+118,1906,Henri Moissan,No Record,No Record,/wiki/Henri_Moissan,No Record,No Record
+119,1905,Adolf von Baeyer,No Record,No Record,/wiki/Adolf_von_Baeyer,No Record,No Record
+120,1904,William Ramsay,No Record,No Record,/wiki/William_Ramsay,No Record,No Record
+121,1903,Svante Arrhenius,No Record,No Record,/wiki/Svante_Arrhenius,No Record,No Record
+122,1902,Emil Fischer,No Record,No Record,/wiki/Emil_Fischer,No Record,No Record
+123,1901,Jacobus Henricus van 't Hoff,No Record,No Record,/wiki/Jacobus_Henricus_van_%27t_Hoff,No Record,No Record

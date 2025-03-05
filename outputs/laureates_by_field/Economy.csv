@@ -1,125 +1,125 @@
 ,YEAR,AUTHOR_1,AUTHOR_2,AUTHOR_3,URL_1,URL_2,URL_3
 0,2024,Daron Acemoglu, Simon Johnson,James A. Robinson,/wiki/Daron_Acemoglu,/wiki/Simon_Johnson_(economist),/wiki/James_A._Robinson
-1,2023,Claudia Goldin,,,/wiki/Claudia_Goldin,,
+1,2023,Claudia Goldin,No Record,No Record,/wiki/Claudia_Goldin,No Record,No Record
 2,2022,Ben Bernanke,Douglas Diamond,Philip H. Dybvig,/wiki/Ben_Bernanke,/wiki/Douglas_Diamond,/wiki/Philip_H._Dybvig
 3,2021,David Card,Joshua Angrist,Guido Imbens,/wiki/David_Card,/wiki/Joshua_Angrist,/wiki/Guido_Imbens
-4,2020,Paul Milgrom,Robert B. Wilson,,/wiki/Paul_Milgrom,/wiki/Robert_B._Wilson,
+4,2020,Paul Milgrom,Robert B. Wilson,No Record,/wiki/Paul_Milgrom,/wiki/Robert_B._Wilson,No Record
 5,2019,Abhijit Banerjee,Esther Duflo,Michael Kremer,/wiki/Abhijit_Banerjee,/wiki/Esther_Duflo,/wiki/Michael_Kremer
-6,2018,William Nordhaus,Paul Romer,,/wiki/William_Nordhaus,/wiki/Paul_Romer,
-7,2017,Richard Thaler,,,/wiki/Richard_Thaler,,
-8,2016,Oliver Hart,Bengt R. Holmström,,/wiki/Oliver_Hart_(economist),/wiki/Bengt_R._Holmstr%C3%B6m,
-9,2015,Angus Deaton,,,/wiki/Angus_Deaton,,
-10,2014,Jean Tirole,,,/wiki/Jean_Tirole,,
+6,2018,William Nordhaus,Paul Romer,No Record,/wiki/William_Nordhaus,/wiki/Paul_Romer,No Record
+7,2017,Richard Thaler,No Record,No Record,/wiki/Richard_Thaler,No Record,No Record
+8,2016,Oliver Hart,Bengt R. Holmström,No Record,/wiki/Oliver_Hart_(economist),/wiki/Bengt_R._Holmstr%C3%B6m,No Record
+9,2015,Angus Deaton,No Record,No Record,/wiki/Angus_Deaton,No Record,No Record
+10,2014,Jean Tirole,No Record,No Record,/wiki/Jean_Tirole,No Record,No Record
 11,2013,Eugene F. Fama,Lars Peter Hansen,Robert J. Shiller,/wiki/Eugene_Fama,/wiki/Lars_Peter_Hansen,/wiki/Robert_Shiller
-12,2012,Alvin E. Roth,Lloyd S. Shapley,,/wiki/Alvin_E._Roth,/wiki/Lloyd_Shapley,
-13,2011,Thomas J. Sargent,Christopher A. Sims,,/wiki/Thomas_J._Sargent,/wiki/Christopher_A._Sims,
+12,2012,Alvin E. Roth,Lloyd S. Shapley,No Record,/wiki/Alvin_E._Roth,/wiki/Lloyd_Shapley,No Record
+13,2011,Thomas J. Sargent,Christopher A. Sims,No Record,/wiki/Thomas_J._Sargent,/wiki/Christopher_A._Sims,No Record
 14,2010,Peter A. Diamond,Dale T. Mortensen,Christopher A. Pissarides,/wiki/Peter_Diamond,/wiki/Dale_T._Mortensen,/wiki/Christopher_A._Pissarides
-15,2009,Elinor Ostrom,Oliver E. Williamson,,/wiki/Elinor_Ostrom,/wiki/Oliver_E._Williamson,
-16,2008,Paul Krugman,,,/wiki/Paul_Krugman,,
+15,2009,Elinor Ostrom,Oliver E. Williamson,No Record,/wiki/Elinor_Ostrom,/wiki/Oliver_E._Williamson,No Record
+16,2008,Paul Krugman,No Record,No Record,/wiki/Paul_Krugman,No Record,No Record
 17,2007,Leonid Hurwicz,Eric Maskin,Roger Myerson,/wiki/Leonid_Hurwicz,/wiki/Eric_Maskin,/wiki/Roger_Myerson
-18,2006,Edmund Phelps,,,/wiki/Edmund_Phelps,,
-19,2005,Robert Aumann,Thomas Schelling,,/wiki/Robert_Aumann,/wiki/Thomas_Schelling,
-20,2004,Finn E. Kydland,Edward C. Prescott,,/wiki/Finn_E._Kydland,/wiki/Edward_C._Prescott,
-21,2003,Robert F. Engle,Clive Granger,,/wiki/Robert_F._Engle,/wiki/Clive_Granger,
-22,2002,Daniel Kahneman,Vernon L. Smith,,/wiki/Daniel_Kahneman,/wiki/Vernon_L._Smith,
+18,2006,Edmund Phelps,No Record,No Record,/wiki/Edmund_Phelps,No Record,No Record
+19,2005,Robert Aumann,Thomas Schelling,No Record,/wiki/Robert_Aumann,/wiki/Thomas_Schelling,No Record
+20,2004,Finn E. Kydland,Edward C. Prescott,No Record,/wiki/Finn_E._Kydland,/wiki/Edward_C._Prescott,No Record
+21,2003,Robert F. Engle,Clive Granger,No Record,/wiki/Robert_F._Engle,/wiki/Clive_Granger,No Record
+22,2002,Daniel Kahneman,Vernon L. Smith,No Record,/wiki/Daniel_Kahneman,/wiki/Vernon_L._Smith,No Record
 23,2001,George Akerlof,Michael Spence,Joseph Stiglitz,/wiki/George_Akerlof,/wiki/Michael_Spence,/wiki/Joseph_Stiglitz
-24,2000,James Heckman,Daniel McFadden,,/wiki/James_Heckman,/wiki/Daniel_McFadden,
-25,1999,Robert Mundell,,,/wiki/Robert_Mundell,,
-26,1998,Amartya Sen,,,/wiki/Amartya_Sen,,
-27,1997,Robert C. Merton,Myron Scholes,,/wiki/Robert_C._Merton,/wiki/Myron_Scholes,
-28,1996,James Mirrlees,William Vickrey,,/wiki/James_Mirrlees,/wiki/William_Vickrey,
-29,1995,Robert Lucas Jr.,,,/wiki/Robert_Lucas_Jr.,,
+24,2000,James Heckman,Daniel McFadden,No Record,/wiki/James_Heckman,/wiki/Daniel_McFadden,No Record
+25,1999,Robert Mundell,No Record,No Record,/wiki/Robert_Mundell,No Record,No Record
+26,1998,Amartya Sen,No Record,No Record,/wiki/Amartya_Sen,No Record,No Record
+27,1997,Robert C. Merton,Myron Scholes,No Record,/wiki/Robert_C._Merton,/wiki/Myron_Scholes,No Record
+28,1996,James Mirrlees,William Vickrey,No Record,/wiki/James_Mirrlees,/wiki/William_Vickrey,No Record
+29,1995,Robert Lucas Jr.,No Record,No Record,/wiki/Robert_Lucas_Jr.,No Record,No Record
 30,1994,John Harsanyi,John Forbes Nash Jr.,Reinhard Selten,/wiki/John_Harsanyi,/wiki/John_Forbes_Nash_Jr.,/wiki/Reinhard_Selten
-31,1993,Robert Fogel,Douglass North,,/wiki/Robert_Fogel,/wiki/Douglass_North,
-32,1992,Gary Becker,,,/wiki/Gary_Becker,,
-33,1991,Ronald Coase,,,/wiki/Ronald_Coase,,
+31,1993,Robert Fogel,Douglass North,No Record,/wiki/Robert_Fogel,/wiki/Douglass_North,No Record
+32,1992,Gary Becker,No Record,No Record,/wiki/Gary_Becker,No Record,No Record
+33,1991,Ronald Coase,No Record,No Record,/wiki/Ronald_Coase,No Record,No Record
 34,1990,Harry Markowitz,Merton Miller,William F. Sharpe,/wiki/Harry_Markowitz,/wiki/Merton_Miller,/wiki/William_F._Sharpe
-35,1989,Trygve Haavelmo,,,/wiki/Trygve_Haavelmo,,
-36,1988,Maurice Allais,,,/wiki/Maurice_Allais,,
-37,1987,Robert Solow,,,/wiki/Robert_Solow,,
-38,1986,James M. Buchanan,,,/wiki/James_M._Buchanan,,
-39,1985,Franco Modigliani,,,/wiki/Franco_Modigliani,,
-40,1984,Richard Stone,,,/wiki/Richard_Stone,,
-41,1983,Gérard Debreu,,,/wiki/G%C3%A9rard_Debreu,,
-42,1982,George Stigler,,,/wiki/George_Stigler,,
-43,1981,James Tobin,,,/wiki/James_Tobin,,
-44,1980,Lawrence Klein,,,/wiki/Lawrence_Klein,,
-45,1979,Theodore Schultz,W. Arthur Lewis,,/wiki/Theodore_Schultz,/wiki/W._Arthur_Lewis,
-46,1978,Herbert A. Simon,,,/wiki/Herbert_A._Simon,,
-47,1977,Bertil Ohlin,James Meade,,/wiki/Bertil_Ohlin,/wiki/James_Meade,
-48,1976,Milton Friedman,,,/wiki/Milton_Friedman,,
-49,1975,Leonid Kantorovich,Tjalling Koopmans,,/wiki/Leonid_Kantorovich,/wiki/Tjalling_Koopmans,
-50,1974,Gunnar Myrdal,Friedrich Hayek,,/wiki/Gunnar_Myrdal,/wiki/Friedrich_Hayek,
-51,1973,Wassily Leontief,,,/wiki/Wassily_Leontief,,
-52,1972,/wiki/John_Hicks,/wiki/Kenneth_Arrow,,No Record,,
-53,1971,Simon Kuznets,,,/wiki/Simon_Kuznets,,
-54,1970,Paul Samuelson,,,/wiki/Paul_Samuelson,,
-55,1969,Ragnar Frisch,Jan Tinbergen,,/wiki/Ragnar_Frisch,/wiki/Jan_Tinbergen,
-56,1968,No Record,,,No Record,,
-57,1967,No Record,,,No Record,,
-58,1966,No Record,,,No Record,,
-59,1965,No Record,,,No Record,,
-60,1964,No Record,,,No Record,,
-61,1963,No Record,,,No Record,,
-62,1962,No Record,,,No Record,,
-63,1961,No Record,,,No Record,,
-64,1960,No Record,,,No Record,,
-65,1959,No Record,,,No Record,,
-66,1958,No Record,,,No Record,,
-67,1957,No Record,,,No Record,,
-68,1956,No Record,,,No Record,,
-69,1955,No Record,,,No Record,,
-70,1954,No Record,,,No Record,,
-71,1953,No Record,,,No Record,,
-72,1952,No Record,,,No Record,,
-73,1951,No Record,,,No Record,,
-74,1950,No Record,,,No Record,,
-75,1949,No Record,,,No Record,,
-76,1948,No Record,,,No Record,,
-77,1947,No Record,,,No Record,,
-78,1946,No Record,,,No Record,,
-79,1945,No Record,,,No Record,,
-80,1944,No Record,,,No Record,,
-81,1943,No Record,,,No Record,,
-82,1942,No Record,,,No Record,,
-83,1941,No Record,,,No Record,,
-84,1940,No Record,,,No Record,,
-85,1939,No Record,,,No Record,,
-86,1938,No Record,,,No Record,,
-87,1937,No Record,,,No Record,,
-88,1936,No Record,,,No Record,,
-89,1935,No Record,,,No Record,,
-90,1934,No Record,,,No Record,,
-91,1933,No Record,,,No Record,,
-92,1932,No Record,,,No Record,,
-93,1931,No Record,,,No Record,,
-94,1930,No Record,,,No Record,,
-95,1929,No Record,,,No Record,,
-96,1928,No Record,,,No Record,,
-97,1927,No Record,,,No Record,,
-98,1926,No Record,,,No Record,,
-99,1925,No Record,,,No Record,,
-100,1924,No Record,,,No Record,,
-101,1923,No Record,,,No Record,,
-102,1922,No Record,,,No Record,,
-103,1921,No Record,,,No Record,,
-104,1920,No Record,,,No Record,,
-105,1919,No Record,,,No Record,,
-106,1918,No Record,,,No Record,,
-107,1917,No Record,,,No Record,,
-108,1916,No Record,,,No Record,,
-109,1915,No Record,,,No Record,,
-110,1914,No Record,,,No Record,,
-111,1913,No Record,,,No Record,,
-112,1912,No Record,,,No Record,,
-113,1911,No Record,,,No Record,,
-114,1910,No Record,,,No Record,,
-115,1909,No Record,,,No Record,,
-116,1908,No Record,,,No Record,,
-117,1907,No Record,,,No Record,,
-118,1906,No Record,,,No Record,,
-119,1905,No Record,,,No Record,,
-120,1904,No Record,,,No Record,,
-121,1903,No Record,,,No Record,,
-122,1902,No Record,,,No Record,,
-123,1901,—,,,No Record,,
+35,1989,Trygve Haavelmo,No Record,No Record,/wiki/Trygve_Haavelmo,No Record,No Record
+36,1988,Maurice Allais,No Record,No Record,/wiki/Maurice_Allais,No Record,No Record
+37,1987,Robert Solow,No Record,No Record,/wiki/Robert_Solow,No Record,No Record
+38,1986,James M. Buchanan,No Record,No Record,/wiki/James_M._Buchanan,No Record,No Record
+39,1985,Franco Modigliani,No Record,No Record,/wiki/Franco_Modigliani,No Record,No Record
+40,1984,Richard Stone,No Record,No Record,/wiki/Richard_Stone,No Record,No Record
+41,1983,Gérard Debreu,No Record,No Record,/wiki/G%C3%A9rard_Debreu,No Record,No Record
+42,1982,George Stigler,No Record,No Record,/wiki/George_Stigler,No Record,No Record
+43,1981,James Tobin,No Record,No Record,/wiki/James_Tobin,No Record,No Record
+44,1980,Lawrence Klein,No Record,No Record,/wiki/Lawrence_Klein,No Record,No Record
+45,1979,Theodore Schultz,W. Arthur Lewis,No Record,/wiki/Theodore_Schultz,/wiki/W._Arthur_Lewis,No Record
+46,1978,Herbert A. Simon,No Record,No Record,/wiki/Herbert_A._Simon,No Record,No Record
+47,1977,Bertil Ohlin,James Meade,No Record,/wiki/Bertil_Ohlin,/wiki/James_Meade,No Record
+48,1976,Milton Friedman,No Record,No Record,/wiki/Milton_Friedman,No Record,No Record
+49,1975,Leonid Kantorovich,Tjalling Koopmans,No Record,/wiki/Leonid_Kantorovich,/wiki/Tjalling_Koopmans,No Record
+50,1974,Gunnar Myrdal,Friedrich Hayek,No Record,/wiki/Gunnar_Myrdal,/wiki/Friedrich_Hayek,No Record
+51,1973,Wassily Leontief,No Record,No Record,/wiki/Wassily_Leontief,No Record,No Record
+52,1972,John Hicks,Kenneth Arrow,No Record,/wiki/John_Hicks,/wiki/Kenneth_Arrow,No Record
+53,1971,Simon Kuznets,No Record,No Record,/wiki/Simon_Kuznets,No Record,No Record
+54,1970,Paul Samuelson,No Record,No Record,/wiki/Paul_Samuelson,No Record,No Record
+55,1969,Ragnar Frisch,Jan Tinbergen,No Record,/wiki/Ragnar_Frisch,/wiki/Jan_Tinbergen,No Record
+56,1968,No Record,No Record,No Record,No Record,No Record,No Record
+57,1967,No Record,No Record,No Record,No Record,No Record,No Record
+58,1966,No Record,No Record,No Record,No Record,No Record,No Record
+59,1965,No Record,No Record,No Record,No Record,No Record,No Record
+60,1964,No Record,No Record,No Record,No Record,No Record,No Record
+61,1963,No Record,No Record,No Record,No Record,No Record,No Record
+62,1962,No Record,No Record,No Record,No Record,No Record,No Record
+63,1961,No Record,No Record,No Record,No Record,No Record,No Record
+64,1960,No Record,No Record,No Record,No Record,No Record,No Record
+65,1959,No Record,No Record,No Record,No Record,No Record,No Record
+66,1958,No Record,No Record,No Record,No Record,No Record,No Record
+67,1957,No Record,No Record,No Record,No Record,No Record,No Record
+68,1956,No Record,No Record,No Record,No Record,No Record,No Record
+69,1955,No Record,No Record,No Record,No Record,No Record,No Record
+70,1954,No Record,No Record,No Record,No Record,No Record,No Record
+71,1953,No Record,No Record,No Record,No Record,No Record,No Record
+72,1952,No Record,No Record,No Record,No Record,No Record,No Record
+73,1951,No Record,No Record,No Record,No Record,No Record,No Record
+74,1950,No Record,No Record,No Record,No Record,No Record,No Record
+75,1949,No Record,No Record,No Record,No Record,No Record,No Record
+76,1948,No Record,No Record,No Record,No Record,No Record,No Record
+77,1947,No Record,No Record,No Record,No Record,No Record,No Record
+78,1946,No Record,No Record,No Record,No Record,No Record,No Record
+79,1945,No Record,No Record,No Record,No Record,No Record,No Record
+80,1944,No Record,No Record,No Record,No Record,No Record,No Record
+81,1943,No Record,No Record,No Record,No Record,No Record,No Record
+82,1942,No Record,No Record,No Record,No Record,No Record,No Record
+83,1941,No Record,No Record,No Record,No Record,No Record,No Record
+84,1940,No Record,No Record,No Record,No Record,No Record,No Record
+85,1939,No Record,No Record,No Record,No Record,No Record,No Record
+86,1938,No Record,No Record,No Record,No Record,No Record,No Record
+87,1937,No Record,No Record,No Record,No Record,No Record,No Record
+88,1936,No Record,No Record,No Record,No Record,No Record,No Record
+89,1935,No Record,No Record,No Record,No Record,No Record,No Record
+90,1934,No Record,No Record,No Record,No Record,No Record,No Record
+91,1933,No Record,No Record,No Record,No Record,No Record,No Record
+92,1932,No Record,No Record,No Record,No Record,No Record,No Record
+93,1931,No Record,No Record,No Record,No Record,No Record,No Record
+94,1930,No Record,No Record,No Record,No Record,No Record,No Record
+95,1929,No Record,No Record,No Record,No Record,No Record,No Record
+96,1928,No Record,No Record,No Record,No Record,No Record,No Record
+97,1927,No Record,No Record,No Record,No Record,No Record,No Record
+98,1926,No Record,No Record,No Record,No Record,No Record,No Record
+99,1925,No Record,No Record,No Record,No Record,No Record,No Record
+100,1924,No Record,No Record,No Record,No Record,No Record,No Record
+101,1923,No Record,No Record,No Record,No Record,No Record,No Record
+102,1922,No Record,No Record,No Record,No Record,No Record,No Record
+103,1921,No Record,No Record,No Record,No Record,No Record,No Record
+104,1920,No Record,No Record,No Record,No Record,No Record,No Record
+105,1919,No Record,No Record,No Record,No Record,No Record,No Record
+106,1918,No Record,No Record,No Record,No Record,No Record,No Record
+107,1917,No Record,No Record,No Record,No Record,No Record,No Record
+108,1916,No Record,No Record,No Record,No Record,No Record,No Record
+109,1915,No Record,No Record,No Record,No Record,No Record,No Record
+110,1914,No Record,No Record,No Record,No Record,No Record,No Record
+111,1913,No Record,No Record,No Record,No Record,No Record,No Record
+112,1912,No Record,No Record,No Record,No Record,No Record,No Record
+113,1911,No Record,No Record,No Record,No Record,No Record,No Record
+114,1910,No Record,No Record,No Record,No Record,No Record,No Record
+115,1909,No Record,No Record,No Record,No Record,No Record,No Record
+116,1908,No Record,No Record,No Record,No Record,No Record,No Record
+117,1907,No Record,No Record,No Record,No Record,No Record,No Record
+118,1906,No Record,No Record,No Record,No Record,No Record,No Record
+119,1905,No Record,No Record,No Record,No Record,No Record,No Record
+120,1904,No Record,No Record,No Record,No Record,No Record,No Record
+121,1903,No Record,No Record,No Record,No Record,No Record,No Record
+122,1902,No Record,No Record,No Record,No Record,No Record,No Record
+123,1901,—,No Record,No Record,No Record,No Record,No Record
